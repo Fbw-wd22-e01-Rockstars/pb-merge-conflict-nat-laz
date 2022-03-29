@@ -1,4 +1,4 @@
- ![banner](img/kitten.jpg)
+ ![banner](./img/door.jpg)
 
  # Lorem ipsum sic header
 
